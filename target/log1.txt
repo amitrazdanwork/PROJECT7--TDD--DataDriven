@@ -1,0 +1,207 @@
+Chrome driver got initialized 
+ Home URL got open successfully. 
+ Launched Home Web page 
+ Search textbox is displayed on Home page 
+ User enters @3244 search keyword in Search textbox on My Account page 
+ User clicked on Search icon 
+ No Search results label got displayed for searched keyword i.e. Your search returned no results. 
+ User navigates to What's New Webpage. 
+ Search textbox is present on  What's New page. 
+ User enters @3244 search keyword in Search textbox on My Account page 
+ User clicked on Search icon 
+ No Search results label got displayed for searched keyword i.e. Your search returned no results. 
+ User navigates to Women's Webpage. 
+ Search textbox is present on  Women's page. 
+ User enters @3244 search keyword in Search textbox on My Account page 
+ User clicked on Search icon 
+ No Search results label got displayed for searched keyword i.e. Your search returned no results. 
+ User navigates to Men's Webpage. 
+ Search textbox is present on  Men's page. 
+ User enters @3244 search keyword in Search textbox on Mens page 
+ User clicked on Search icon 
+ No Search results label got displayed for searched keyword i.e. Your search returned no results. 
+ User navigates to Gear's Webpage. 
+ Search textbox is present on  Gear's page. 
+ User enters @3244 search keyword in Search textbox on Gear page 
+ User clicked on Search icon 
+ No Search results label got displayed for searched keyword i.e. Your search returned no results. 
+ User navigates to Training's Webpage. 
+ Search textbox is present on  Training's page. 
+ User enters @3244 search keyword in Search textbox on trainingpage page 
+ User clicked on Search icon 
+ No Search results label got displayed for searched keyword i.e. Your search returned no results. 
+ User navigates to Sale's Webpage. 
+ Search textbox is present on  Sale's page. 
+ User enters @3244 search keyword in Search textbox on salepage page 
+ User clicked on Search icon 
+ No Search results label got displayed for searched keyword i.e. Your search returned no results. 
+ User navigates to SignIn Webpage. 
+ Search textbox is present on  SignIn page. 
+ User enters @3244 search keyword in Search textbox on sign in  page 
+ User clicked on Search icon 
+ No Search results label got displayed for searched keyword i.e. Your search returned no results. 
+ User navigates to Create An Account Webpage. 
+ Search textbox is present on  Create An Account page. 
+ User enters @3244 search keyword in Search textbox on Create an account  page 
+ User clicked on Search icon 
+ No Search results label got displayed for searched keyword i.e. Your search returned no results. 
+ User navigates to Forgot password Webpage. 
+ Search textbox is present on Forgot password page. 
+ User enters @3244 search keyword in Search textbox on forgot password  page 
+ User clicked on Search icon 
+ No Search results label got displayed for searched keyword i.e. Your search returned no results. 
+ Launched Home Web page 
+ Search textbox is displayed on Home page 
+ User enters @3244 search keyword in Search textbox on My Account page 
+ User clicked on Search icon 
+ No Search results label got displayed for searched keyword i.e. Your search returned no results. 
+ User navigates to What's New Webpage. 
+ Search textbox is present on  What's New page. 
+ User enters @3244 search keyword in Search textbox on My Account page 
+ User clicked on Search icon 
+ No Search results label got displayed for searched keyword i.e. Your search returned no results. 
+ User navigates to Women's Webpage. 
+ Search textbox is present on  Women's page. 
+ User enters @3244 search keyword in Search textbox on My Account page 
+ User clicked on Search icon 
+ No Search results label got displayed for searched keyword i.e. Your search returned no results. 
+ User navigates to Men's Webpage. 
+ Search textbox is present on  Men's page. 
+ User enters @3244 search keyword in Search textbox on Mens page 
+ User clicked on Search icon 
+ No Search results label got displayed for searched keyword i.e. Your search returned no results. 
+ User navigates to Gear's Webpage. 
+ Search textbox is present on  Gear's page. 
+ User enters @3244 search keyword in Search textbox on Gear page 
+ User clicked on Search icon 
+ No Search results label got displayed for searched keyword i.e. Your search returned no results. 
+ User navigates to Training's Webpage. 
+ Search textbox is present on  Training's page. 
+ User enters @3244 search keyword in Search textbox on trainingpage page 
+ User clicked on Search icon 
+ No Search results label got displayed for searched keyword i.e. Your search returned no results. 
+ User navigates to Sale's Webpage. 
+ Search textbox is present on  Sale's page. 
+ User enters @3244 search keyword in Search textbox on salepage page 
+ User clicked on Search icon 
+ No Search results label got displayed for searched keyword i.e. Your search returned no results. 
+ User navigates to SignIn Webpage. 
+ Search textbox is present on  SignIn page. 
+ User enters @3244 search keyword in Search textbox on sign in  page 
+ User clicked on Search icon 
+ No Search results label got displayed for searched keyword i.e. Your search returned no results. 
+ User navigates to Create An Account Webpage. 
+ Search textbox is present on  Create An Account page. 
+ User enters @3244 search keyword in Search textbox on Create an account  page 
+ User clicked on Search icon 
+ No Search results label got displayed for searched keyword i.e. Your search returned no results. 
+ User navigates to Forgot password Webpage. 
+ Search textbox is present on Forgot password page. 
+ User enters @3244 search keyword in Search textbox on forgot password  page 
+ User clicked on Search icon 
+ No Search results label got displayed for searched keyword i.e. Your search returned no results. 
+ driver quitted successfully..... 
+ Chrome driver got initialized 
+ Home URL got open successfully. 
+ Launched Home Web page 
+ Search textbox is displayed on Home page 
+ User enters @3244 search keyword in Search textbox on My Account page 
+ User clicked on Search icon 
+ No Search results label got displayed for searched keyword i.e. Your search returned no results. 
+ User navigates to What's New Webpage. 
+ Search textbox is present on  What's New page. 
+ User enters @3244 search keyword in Search textbox on My Account page 
+ User clicked on Search icon 
+ No Search results label got displayed for searched keyword i.e. Your search returned no results. 
+ User navigates to Women's Webpage. 
+ Search textbox is present on  Women's page. 
+ User enters @3244 search keyword in Search textbox on My Account page 
+ User clicked on Search icon 
+ No Search results label got displayed for searched keyword i.e. Your search returned no results. 
+ User navigates to Men's Webpage. 
+ Search textbox is present on  Men's page. 
+ User enters @3244 search keyword in Search textbox on Mens page 
+ User clicked on Search icon 
+ No Search results label got displayed for searched keyword i.e. Your search returned no results. 
+ User navigates to Gear's Webpage. 
+ Search textbox is present on  Gear's page. 
+ User enters @3244 search keyword in Search textbox on Gear page 
+ User clicked on Search icon 
+ No Search results label got displayed for searched keyword i.e. Your search returned no results. 
+ User navigates to Training's Webpage. 
+ Search textbox is present on  Training's page. 
+ User enters @3244 search keyword in Search textbox on trainingpage page 
+ User clicked on Search icon 
+ No Search results label got displayed for searched keyword i.e. Your search returned no results. 
+ User navigates to Sale's Webpage. 
+ Search textbox is present on  Sale's page. 
+ User enters @3244 search keyword in Search textbox on salepage page 
+ User clicked on Search icon 
+ No Search results label got displayed for searched keyword i.e. Your search returned no results. 
+ User navigates to SignIn Webpage. 
+ Search textbox is present on  SignIn page. 
+ User enters @3244 search keyword in Search textbox on sign in  page 
+ User clicked on Search icon 
+ No Search results label got displayed for searched keyword i.e. Your search returned no results. 
+ User navigates to Create An Account Webpage. 
+ Search textbox is present on  Create An Account page. 
+ User enters @3244 search keyword in Search textbox on Create an account  page 
+ User clicked on Search icon 
+ No Search results label got displayed for searched keyword i.e. Your search returned no results. 
+ User navigates to Forgot password Webpage. 
+ Search textbox is present on Forgot password page. 
+ User enters @3244 search keyword in Search textbox on forgot password  page 
+ User clicked on Search icon 
+ No Search results label got displayed for searched keyword i.e. Your search returned no results. 
+ Launched Home Web page 
+ Search textbox is displayed on Home page 
+ User enters @3244 search keyword in Search textbox on My Account page 
+ User clicked on Search icon 
+ No Search results label got displayed for searched keyword i.e. Your search returned no results. 
+ User navigates to What's New Webpage. 
+ Search textbox is present on  What's New page. 
+ User enters @3244 search keyword in Search textbox on My Account page 
+ User clicked on Search icon 
+ No Search results label got displayed for searched keyword i.e. Your search returned no results. 
+ User navigates to Women's Webpage. 
+ Search textbox is present on  Women's page. 
+ User enters @3244 search keyword in Search textbox on My Account page 
+ User clicked on Search icon 
+ No Search results label got displayed for searched keyword i.e. Your search returned no results. 
+ User navigates to Men's Webpage. 
+ Search textbox is present on  Men's page. 
+ User enters @3244 search keyword in Search textbox on Mens page 
+ User clicked on Search icon 
+ No Search results label got displayed for searched keyword i.e. Your search returned no results. 
+ User navigates to Gear's Webpage. 
+ Search textbox is present on  Gear's page. 
+ User enters @3244 search keyword in Search textbox on Gear page 
+ User clicked on Search icon 
+ No Search results label got displayed for searched keyword i.e. Your search returned no results. 
+ User navigates to Training's Webpage. 
+ Search textbox is present on  Training's page. 
+ User enters @3244 search keyword in Search textbox on trainingpage page 
+ User clicked on Search icon 
+ No Search results label got displayed for searched keyword i.e. Your search returned no results. 
+ User navigates to Sale's Webpage. 
+ Search textbox is present on  Sale's page. 
+ User enters @3244 search keyword in Search textbox on salepage page 
+ User clicked on Search icon 
+ No Search results label got displayed for searched keyword i.e. Your search returned no results. 
+ User navigates to SignIn Webpage. 
+ Search textbox is present on  SignIn page. 
+ User enters @3244 search keyword in Search textbox on sign in  page 
+ User clicked on Search icon 
+ No Search results label got displayed for searched keyword i.e. Your search returned no results. 
+ User navigates to Create An Account Webpage. 
+ Search textbox is present on  Create An Account page. 
+ User enters @3244 search keyword in Search textbox on Create an account  page 
+ User clicked on Search icon 
+ No Search results label got displayed for searched keyword i.e. Your search returned no results. 
+ User navigates to Forgot password Webpage. 
+ Search textbox is present on Forgot password page. 
+ User enters @3244 search keyword in Search textbox on forgot password  page 
+ User clicked on Search icon 
+ No Search results label got displayed for searched keyword i.e. Your search returned no results. 
+ driver quitted successfully..... 
+ 
