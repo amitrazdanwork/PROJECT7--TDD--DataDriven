@@ -4,7 +4,7 @@
 
 
 	<parameter name="browser" value="chrome" />
-	<parameter name="author1" value="Amit" />
+	<parameter name="author1" value="Rishabh" />
 	<parameter name="device1" value="Windows 10" />
 
 	<!-- 	<test thread-count="5" name="Test1">
